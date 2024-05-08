@@ -1,0 +1,20 @@
+
+1.What is Maven ?
+    - Maven is project management tool
+    - Dependency Management
+    - No more missing jar file
+    - example:
+    create project spring boot
+    dependency needed
+        + spring web
+        + hibernate
+        + security ...
+        Maven -> Maven Central Repository and download those dependencies for us
+2. Pom file
+    - Project Object Model
+    - Configuration file for our project
+    - structure
+        + project meta
+        + dependencies
+        + plug-ins
+3.Spring Boot Dev tool
